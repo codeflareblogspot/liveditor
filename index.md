@@ -1,14 +1,151 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<HTML expr:dir='data:blog.languageDirection'>
+<head>
+<meta charset='utf-8'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<title>HTML LIVE EDITOR BY CodeFlare Blogspot</title>
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
+<!-- Favicon Browser Optimize Start -->
+<link href='https://2.bp.blogspot.com/-WFTDEqqZubw/XA9yHZof9kI/AAAAAAAAAow/0GkcxIEAVdktImlrcq3ToRdRZ95JSQqTwCLcBGAs/s1600/logo-codeflare-16px.png' rel='icon' type='image/x-icon'/>
+<link href='https://2.bp.blogspot.com/-ZVWUDxrEpuI/XA9yIgQL72I/AAAAAAAAApI/Mn2l3xmbD0Mwk2nK7BXbny5uz60MN37UQCLcBGAs/s1600/logo-codeflare-32px.png' rel='shortcut icon' type='image/x-icon'/>
+<link href='https://2.bp.blogspot.com/-WFTDEqqZubw/XA9yHZof9kI/AAAAAAAAAow/0GkcxIEAVdktImlrcq3ToRdRZ95JSQqTwCLcBGAs/s1600/logo-codeflare-16px.png' rel='icon' sizes='16x16' type='image/png'/>
+<link href='https://2.bp.blogspot.com/-ZVWUDxrEpuI/XA9yIgQL72I/AAAAAAAAApI/Mn2l3xmbD0Mwk2nK7BXbny5uz60MN37UQCLcBGAs/s1600/logo-codeflare-32px.png' rel='icon' sizes='32x32' type='image/png'/>
+<link href='https://1.bp.blogspot.com/-_Ll5KSUGlMI/XA9yJMZeIvI/AAAAAAAAApQ/S10qckG43XY6hphWJxYZuWeVo4e5mKRLwCLcBGAs/s1600/logo-codeflare-96px.png' rel='icon' sizes='96x96' type='image/png'/>
+<link href='https://2.bp.blogspot.com/-cscDLSHttEs/XA9yISSWYPI/AAAAAAAAApA/kNNj6dR76ZA9SdRBfe79gn-h60kLAQ-DgCLcBGAs/s1600/logo-codeflare-192px.png' rel='icon' sizes='192x192'/>
+<link href='https://2.bp.blogspot.com/-ZVWUDxrEpuI/XA9yIgQL72I/AAAAAAAAApI/Mn2l3xmbD0Mwk2nK7BXbny5uz60MN37UQCLcBGAs/s1600/logo-codeflare-32px.png' rel='apple-touch-icon'/>
+<link href='https://2.bp.blogspot.com/-ewgT8GdFxoQ/XA9yImBKmWI/AAAAAAAAApE/HlsERmN5ZdE0NL0m0VBE7aZyeqTCXFqJACLcBGAs/s1600/logo-codeflare-57px.png' rel='apple-touch-icon' sizes='57x57'/>
+<link href='https://3.bp.blogspot.com/-8MpGzaxcZfg/XA9yHnHICWI/AAAAAAAAAo0/T5RNTkOSNEAHrlCaMSgnk1rgPkxIzLiQgCLcBGAs/s1600/logo-codeflare-152px.png' rel='apple-touch-icon' sizes='152x152'/>
+<link href='https://1.bp.blogspot.com/-oI8k4xYVlt8/XA9yHufi0JI/AAAAAAAAAo4/-LIvE2g2qaUvXeSaxXJ7-wv1jmniar0qQCLcBGAs/s1600/logo-codeflare-167px.png' rel='apple-touch-icon' sizes='167x167'/>
+<link href='https://3.bp.blogspot.com/-YiOpj6biVxc/XA9yILQhUZI/AAAAAAAAAo8/h8Cej9a_v9I_bFZXmr6xfWN-aVPlzBMHQCLcBGAs/s1600/logo-codeflare-180px.png' rel='apple-touch-icon' sizes='180x180'/>
+<!-- Favicon Browser Optimize End -->
+<!-- Headers Theme Color Start -->
+<!-- Chrome, Firefox OS and Opera -->
+<meta content='#0083da' name='theme-color'/>
+<!-- Windows Phone -->
+<meta content='#0083da' name='msapplication-navbutton-color'/>
+<!-- iOS Safari -->
+<meta content='#0083da' name='apple-mobile-web-app-status-bar-style'/>
+<!-- Headers Theme Color End-->
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://codeflare.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link rel="alternate" type="application/atom+xml" title="CodeFlare - Atom" href="https://codeflare.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="CodeFlare - RSS" href="https://codeflare.blogspot.com/feeds/posts/default?alt=rss" />
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+<meta content='CodeFlare Blogspot, Kumpulan Tutorial Blogger, Komputer, Tips Dan Trik Terbaru.' name='description'/>
+<meta content='CodeFlare Blogspot, Kumpulan Tutorial Blogger, Tutorial Komputer, Tips Dan Trik Terbaru, seo friendly, html5, responsive, blogger, blog.' name='keywords'/>
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+<meta content='codeflarepage' property='fb:admins'/>
+<meta content='codeflarepage' property='fb:profile_id'/>
+<meta content='HTML LIVE EDITOR BY CodeFlare Blogspot' name='twitter:site'/>
+<meta content='summary_large_image' name='twitter:card'/>
+<meta content='codeflare1' name='twitter:creator'/>
+<meta content='Indonesia' name='geo.placename'/>
+<meta content='general' name='rating'/>
+<meta content='id' name='geo.country'/>
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<link rel="stylesheet" type="text/css" href="editor-min.css"/>
+<link rel="stylesheet" type="text/css" href="editor-menu.css"/>
+
+<script type='text/javascript'>
+//<![CDATA[
+function loadCSS(e, t, n) { "use strict"; var i = window.document.createElement("link"); var o = t || window.document.getElementsByTagName("script")[0]; i.rel = "stylesheet"; i.href = e; i.media = "only x"; o.parentNode.insertBefore(i, o); setTimeout(function () { i.media = n || "all" }) }
+loadCSS("https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css");loadCSS("https://fonts.googleapis.com/css?family=Roboto:400,300,700,300italic,500,500italic");
+//]]>
+</script>
+</head>
+<body>
+<section>
+    <div class="row btnGroup">
+      <div class="column-33 toggleGroup" style='margin-top:15px;'>
+        <button class="btn togglePane tombol bulat tooltip" id="htmlToggle" data-editor="html" title="Toggle HTML">HTML <i class='fa fa-toggle-on'></i></button>
+        <button class="btn togglePane tombol bulat tooltip" id="cssToggle" data-editor="css" title="Toggle CSS">CSS <i class='fa fa-toggle-on'></i></button>
+        <button class="btn togglePane tombol bulat tooltip" id="jsToggle" data-editor="js" title="Toggle JS">JavaScript <i class='fa fa-toggle-on'></i></button>
+        <button class="btn bulat tooltip" id="consoleToggle" title="Toggle JavaScript Console" style="display:none;">Console <i class='fa fa-toggle-on'></i></button>
+        <Br/>
+      </div><!--
+      --><div class="column-33">
+        <h1 style="font-weight:900!important;color:#2d2d2d;margin-top:5px;"><img src='https://2.bp.blogspot.com/-ZVWUDxrEpuI/XA9yIgQL72I/AAAAAAAAApI/Mn2l3xmbD0Mwk2nK7BXbny5uz60MN37UQCLcBGAs/s20/logo-codeflare-32px.png' alt='favicon' style="opacity:.9" /> CodeFlare&#174; - HTML Live Editor</h1>
+        <center style="margin-top:5px;display:block;font-size:16px; color:#6d6d6d;">https://codeflare.blogspot.com</center>
+      </div><!--
+      --><div class="column-33 btnGroup last">
+        <button class="btn tombol kecil bulat tooltip" id="previewToggle" title="Enlarge Preview">Preview</button>
+        <button class="btn tombol kecil bulat tooltip" id="clear" title="Click to clear all panes">Clear</button> <span style='opacity:.3;'>/</span>
+        <button class="btn tombol kecil bulat tooltip" id="download" title="Download to computer">Download</button> <span style='opacity:.3;'>/</span>
+        <button class="btn tombol kecil bulat tooltip" id="save" title="Save to localStorage">Save</button>
+        <button class="btn tombol kecil bulat tooltip" id="load" title="Load from localStorage">Load</button><br/>
+        <button class="btn tombol bulat tooltip" id="run" title="Run..." style='padding-left:50px;padding-right:50px;'>Run</button>
+        <button class="btn tombol bulat btn-active tooltip" id="liveEdit" title="Toggle Live Edit Mode" style='padding-left:50px;padding-right:50px;'>LiveEdit <i class='fa fa-toggle-off'></i></button>
+      </div>
+    </div>
+    <div class="row windowGroup">
+      <div class="column-33">
+        <div class="window html">
+          <pre id="html"></pre>
+          <span class="windowLabel" id="htmlLabel">HTML</span>
+        </div>
+      </div><!--
+      --><div class="column-33">
+        <div class="window css">
+          <pre id="css"></pre>
+          <span class="windowLabel" id="cssLabel">CSS</span>
+        </div>
+      </div><!--
+      --><div class="column-33">
+        <div class="window js">
+          <pre id="js"></pre>
+          <span class="windowLabel" id="jsLabel">JavaScript/jQuery 1.x</span>
+        </div>
+      </div>
+    </div>
+    <div class="row console" style="display:none;">
+      <pre id="console"></pre>
+      <span class="windowLabel" id="consoleLabel">Console</span>
+    </div>
+    <div class='minheight'>
+    <div class='responsiveBtn'>
+    <h2 style="display:inline-block;"><i class='fa fa-laptop' style='vertical-align:middle;font-size:30px;'></i> Responsive Web-Design? </h2>
+      <button id='b1280' class='tombol bulat'>1280</button>
+      <button id='b1024' class='tombol bulat'>1024</button>
+      <button id='b960' class='tombol bulat'>960</button>
+      <button id='b800' class='tombol bulat'>800</button>
+      <button id='b768' class='tombol bulat'>768</button>
+      <button id='b720' class='tombol bulat'>720</button>
+      <button id='b640' class='tombol bulat'>640</button>
+      <button id='b480' class='tombol bulat'>480</button>
+      <button id='b360' class='tombol bulat'>360</button>
+      <button id='b320' class='tombol bulat'>320</button>
+    </div>
+      <div class="row preview" id="resize" style='background:#fff;'>
+        <iframe id="iframe" name="CloudEdit"
+          sandbox="allow-scripts allow-pointer-lock allow-same-origin allow-popups allow-forms"
+          allowtransparency="true">
+        </iframe>
+        <span class="windowLabel" id="iframeLabel">Preview</span>
+        <span id="iframeClose">&#215;</span>
+      </div>
+    </div>
+    <footer style='font-size:70%;margin:20px 20px 0;'>&#169;2015 - 2019 Modified by : <a style='color:#1d1d1d;font-weight:bold;text-decoration:none;' title='https://codeflare.blogspot.com' class='clickProfile tooltip' href='https://codeflare.blogspot.com' >CodeFlare</a>
+
+    <span class='share'>Share this! on <a class='facebook' href='https://www.facebook.com/sharer/sharer.php?u=https://codeflare.blogspot.com/' target='_blank'><i class='fa fa-facebook-official'></i></a> <a class='twitter' href='https://twitter.com/intent/tweet?text=HTML Live Editor - CodeFlare Blogspot!&amp;url=https://codeflare.blogspot.com/' target='_blank'><i class='fa fa-twitter'></i></a> <a class='gplus' href='https://codeflare.blogspot.com/p/contact.html' target='_blank'><i class='fa fa-google-plus'></i></a></span></footer>
+
+  </section>
+  <div id='notif' style='display:none;'>
+  <h1><i class='fa fa-user-secret'></i><br/>SORRY!</h1>
+  <p>This Editor, only available on 960px screen width or more..</p>
+  <p><i class='fa fa-code'></i>
+  </div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="https://rawgit.com/TheInsomniac/CloudEdit/master/js/ace/ace.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://rawgit.com/TheInsomniac/CloudEdit/master/js/ace/ext-emmet.js" type="text/javascript" charset="utf-8"></script>
+  <script src="https://rawgit.com/TheInsomniac/CloudEdit/master/js/ace/emmet.js" type="text/javascript" charset="utf-8"></script>
+  <script src="jquery.ui.position.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="contextMenu.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="jqconsole.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="cloudEdit.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="codeflareblogspot.min.js" type="text/javascript" charset="utf-8"></script>
+  
+</body>
+</HTML>
